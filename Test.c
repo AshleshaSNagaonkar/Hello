@@ -1,5 +1,7 @@
 #include<studio.h>
 void main()
 {
-printf("Hello!!")
+printf("Hello!!");
+  
+printf("What is your name?");
 }
